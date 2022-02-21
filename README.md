@@ -1,2 +1,2 @@
 # cryptojs-playground
-Just playin' around with the Crypto-JS library
+Just playing around with the Crypto-JS library!
