@@ -25,3 +25,5 @@ const decrypt = () => {
 
 encrypt();
 decrypt();
+
+// The encrypted version of the file is bigger than the original one.
